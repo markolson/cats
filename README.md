@@ -19,6 +19,6 @@ If you see
     OK
 You didn't break anything! Or possibly didn't add tests for new things you've added.
 
-There is also a .travis.yml file which, if you have an account on [Travis CI](http://travis-ci.org), will automatically run tests and ensure this can still be packaged when changes are made. The image below shows the current test & package build success status on the master branch of markolson/cats. Update to suit. 
+There is also a .travis.yml file which, if you have an account on [Travis CI](http://travis-ci.org), will automatically run tests and ensure this can still be packaged when changes are made. The image below shows the current test & package build success status on the master branch of hilaryparker/cats. Update to suit. 
 
-[![Build Status](https://travis-ci.org/markolson/cats.svg?branch=master)](https://travis-ci.org/markolson/cats)
+[![Build Status](https://travis-ci.org/hilaryparker/cats.svg?branch=master)](https://travis-ci.org/markolson/cats)
